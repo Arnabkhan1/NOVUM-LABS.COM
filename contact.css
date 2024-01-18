@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(135, 210, 235);
+}
+.header1{
+    height: 134%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .header1-content-1{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'sans';
+    flex-wrap: wrap;
+ }
+ #siemens{
+    padding-left: 7vw;
+    padding-top:5vh;
+    color: white;
+    font-size: 2rem;
+    font-weight: 900;
+ }
+ #magnyfy{
+    padding-right: 7vw;
+    color: white;
+    font-size: 1.2rem;
+    padding-top:5vh;
+ }
+ #magnyfy:hover{
+ color: aquamarine;
+ }
+ #global{
+    padding-top:5vh;
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    gap: 1.5vw;
+    flex-wrap: wrap;
+ }
+ #global:hover{
+    color: aquamarine;
+   }
+ #header-1-part2{
+    display: flex;
+    gap: 3vw;
+    flex-wrap: wrap;
+ }
+ .header1-content-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'roman';
+ }
+ .header{
+    display: flex;
+    gap: 5vw;
+ }
+ .header-content-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'roman';
+ }
+ #header-ul-1{
+    display: flex;
+    gap: 2.5vw;
+    flex-wrap: wrap;
+    padding-left: 7vw;
+    padding-top: 3vh;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: white;
+ }
+ #software-traning{
+     padding-left: 13vw;
+ }
+ #header-ul-2{
+    display: flex;
+    gap: 2.5vw;
+    flex-wrap: wrap;
+    padding-right: 7vw;
+    padding-top: 3vh;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: white;
+ }  
+.Portfolio h1{
+    text-align: center;
+    font-size: 3.25rem;
+    padding: 2vh;
+}
+.page1-content1 h1{
+    text-align: center;
+    padding: 4vh 0 0 0 ;
+    font-size: 3rem;
+}
+.page1-content1 p{
+    text-align: center;
+    padding: 4vh 11vw 0 11vw ;
+    font-size: 1.8rem;
+    line-height: 5vh;
+    text-align: justify;
+}
+.page1-content2 h2{
+     padding: 7vh 0 0 10vw;
+     font-size: 2rem;
+}
+.page1-content2 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content2 p{
+    padding: 2vh 0 0 18.5vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content3 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content3 p{
+    padding: 2vh 0 0 24.5vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content4 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content4 p{
+    padding: 2vh 0 0 20.9vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content5 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content5 p{
+    padding: 2vh 0 0 27.3vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content6 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content6 p{
+    padding: 2vh 0 0 27.3vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content7 h4{
+    padding: 4vh 0 0 10vw;
+    font-size: 1.5rem;
+}
+.page1-content7 p{
+    padding: 2vh 3.5vw 8vh 25.3vw;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.page1-content8{
+    text-align: center;
+}
+.page1-content8 h2{
+    font-size: 3rem;
+    padding:3vh 0 3vh 0 ;
+}
+#name{
+    margin: 1vw 0 2vh 0;
+    font-size: 1.5rem;
+}
+#email{
+    margin: 1vw 0 2vh 0;
+    font-size: 1.5rem;
+}
+#message{
+    margin: 1vw 0 2vh 0;
+    font-size: 1.7rem;
+}
+#phone{
+    margin: 1vw 0 2vh 0;
+    font-size: 1.5rem;
+}
+#subject{
+    margin: 1vw 0 2vh 0;
+    font-size: 1.5rem;
+}
+#submit{
+    font-size: 1.5rem;
+    margin: 0 0 2vh 0;
+}
+.page1-content9 h3{
+    padding: 4vh 0 0 10vw;
+    font-size: 2rem;
+}
+.page1-content9 p{
+    padding: 2vh 10vw 0 21.5vw;
+    font-size: 1.9rem;
+    line-height: 5.5vh;
+    text-align: justify;
+}
+.page1-content10 h3{
+    padding: 4vh 0 0 10vw;
+    font-size: 2rem;
+}
+.page1-content10 p{
+    padding: 2vh 5vw 0 28.5vw;
+    font-size: 1.9rem;
+    line-height: 5.5vh;
+    text-align: justify;
+}

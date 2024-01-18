@@ -1,0 +1,242 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.page1-content1 h1{
+      text-align: center;
+      padding-top: 2vh;
+}
+.page1-content1-flex{
+    display: flex;
+    padding: 5vh 0 3vh 0;
+}
+.page1-content1-flex h4{
+   padding-left: 20vw;
+   font-size: 1.25rem;
+}
+.page1-content1-flex h5{
+    padding-left: 30vw;
+    font-size: 1.2rem;
+ }
+ .page1-content2-text1 h3{
+    padding: 5vh 0 2vh 10vw;
+    font-size: 1.25rem;
+ }
+ .page1-content2-text1 p{
+    text-align: justify;
+    padding: 2vh 20vw 2vh 20vw;
+    font-size: 1.25rem;
+    line-height: 4vh;
+
+ }
+ .monthly-breakdown h1{
+    text-align: center;
+    padding: 5vh  0 5vh 0;
+ }
+ .month1-4{
+    display: flex;
+ }
+ .month5-8{
+    display: flex;
+ }
+ .month9-12{
+    display: flex;
+ }
+ .month1-2{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 0 0 0 2vw;
+ }
+ .month3-4{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 0 0 0 2vw;
+ }
+ .month5-6{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 2vh 0 0 2vw;
+ }
+ .month7-8{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 2vh 0 0 2vw;
+ }
+ .month9-10{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 2vh 0 0 2vw;
+ }
+ .month11-12{
+    background-color: red;
+    width:45vw;
+    height: 60vh;
+    margin: 2vh 0 0 2vw;
+ }
+ .month1-2 h2{
+    text-align: center;
+    padding: 5vh 0 0 0;
+ }
+ .week1-4{
+    display: flex;
+    gap: 1vw;
+ }
+ .week1-2{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week3-4{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month3-4 h2{
+    text-align: center;
+    padding: 6vh 0 0 0;
+ }
+ .week5-12{
+    display: flex;
+    gap: 1vw;
+ }
+ .week5-8{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week9-12{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month5-8 h2{
+    text-align: center;
+    padding: 9vh 0 0 0;
+ }
+ .week13-20{
+    display: flex;
+    gap: 1vw;
+ }
+ .week13-16{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week17-20{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month5-8 h2{
+    text-align: center;
+    padding: 9vh 0 0 0;
+ }
+ .week21-28{
+    display: flex;
+    gap: 1vw;
+ }
+ .week21-24{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week25-28{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month5-8 h2{
+    text-align: center;
+    padding: 9vh 0 0 0;
+ }
+ .week13-20{
+    display: flex;
+    gap: 1vw;
+ }
+ .week13-16{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week17-20{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month9-12 h2{
+    text-align: center;
+    padding: 9vh 0 0 0;
+ }
+ .week29-36{
+    display: flex;
+    gap: 1vw;
+ }
+ .week29-32{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 1.9vw;
+    height: 30vh;
+ }
+ .week33-36{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .month11-12 h2{
+    text-align: center;
+    padding: 9vh 0 0 0;
+ }
+ .week37-48{
+    display: flex;
+    gap: 1vw;
+ }
+ .week37-40{
+    width: 20vw;
+    background-color: yellow;
+    margin: 10vh 0 0 0.2vw;
+    height: 30vh;
+ }
+ .week41-44{
+     margin: 10vh 0 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .week45-48{
+    margin: 10vh 0.2vw 0 0;
+    width: 20vw;
+    background-color: yellow;
+ }
+ .page1-content2-text2 h3{
+       padding: 10vh 0 0 5vw;
+       font-size: 2rem;
+ }
+ .page1-content2-text2 p{
+    padding: 5vh 15vw 0 15vw;
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 4vh;
+}
+.page1-content2-text3 h3{
+    padding: 5vh 0 0 5vw;
+}
+.page1-content2-text3 p{
+    padding: 5vh 16vw 0 15vw;
+}
+
+ 

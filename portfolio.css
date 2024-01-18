@@ -1,0 +1,103 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color:  rgb(135, 210, 235);
+} 
+.header1{
+    height: 134%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .header1-content-1{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'sans';
+    flex-wrap: wrap;
+ }
+ #siemens{
+    padding-left: 7vw;
+    padding-top:5vh;
+    color: white;
+    font-size: 2rem;
+    font-weight: 900;
+ }
+ #magnyfy{
+    padding-right: 7vw;
+    color: white;
+    font-size: 1.2rem;
+    padding-top:5vh;
+ }
+ #magnyfy:hover{
+ color: aquamarine;
+ }
+ #global{
+    padding-top:5vh;
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    gap: 1.5vw;
+    flex-wrap: wrap;
+ }
+ #global:hover{
+    color: aquamarine;
+   }
+ #header-1-part2{
+    display: flex;
+    gap: 3vw;
+    flex-wrap: wrap;
+ }
+ .header1-content-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'roman';
+ }
+ .header{
+    display: flex;
+    gap: 5vw;
+ }
+ .header-content-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: 'roman';
+ }
+ #header-ul-1{
+    display: flex;
+    gap: 2.5vw;
+    flex-wrap: wrap;
+    padding-left: 7vw;
+    padding-top: 3vh;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: white;
+ }
+ #software-traning{
+     padding-left: 13vw;
+ }
+ #header-ul-2{
+    display: flex;
+    gap: 2.5vw;
+    flex-wrap: wrap;
+    padding-right: 7vw;
+    padding-top: 3vh;
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: white;
+ }  
+.Portfolio h1{
+    text-align: center;
+    font-size: 3.25rem;
+    padding: 2vh;
+}
+.container1 p{
+     padding: 6vh 15vw 0 15vw;
+     font-size: 1.55rem;
+     line-height: 5.5vh;
+}
